@@ -1,0 +1,36 @@
+/* хайлт */
+.searchBar {
+  width: 500px;
+  height: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  display: flex;
+  position: relative;
+  right: 60%;
+  font-size: 20px;
+  background: #86898b2a;
+}
+
+.searhBBar {
+  display: flex;
+  width: 300px;
+  background: #86898b2a;
+}
+
+input[type="text"] {
+  width: 100%;
+  background: #86898b2a;
+  outline: none;
+  border: 0;
+  height: 100%;
+  padding: 7px 10px;
+}
+
+.searchIcon {
+  padding: 0 8px;
+}
+.searchIconIcon {
+  margin-top: 3px;
+}
