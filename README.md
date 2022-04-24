@@ -1,8 +1,5 @@
 # ecommerce-react-app
 
-### Demo
-
-[https://ecommerce-react-app.vercel.app/](https://ecommerce-react-app.vercel.app/)
 
 ![](markdown/desktop.png)
 
